@@ -9,6 +9,7 @@ int main()
     vector<string> s;
     int n;
     string temp;
+    cout<<"N-";
     cin>>n;
     for(int i=0;i<n;i++){
         cin>>temp;
